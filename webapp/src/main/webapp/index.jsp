@@ -1,3 +1,2 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2>Change one </h2>
-
+<h2>Change two </h2>
